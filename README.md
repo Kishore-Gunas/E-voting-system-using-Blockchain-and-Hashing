@@ -184,14 +184,14 @@ In summary, mining ensures that transactions are securely added to the blockchai
 Clone the project,
 
 ```sh
-$ git clone 
+$ git clone https://github.com/Kishore-Gunas/E-voting-system-using-Blockchain-and-Hashing.git
 ```
 
 # Windows users can follow this: 
 
 Open Command Prompt and run the following commands
 
-git clone 
+git clone https://github.com/Kishore-Gunas/E-voting-system-using-Blockchain-and-Hashing.git
 
 Install the dependencies,
 
